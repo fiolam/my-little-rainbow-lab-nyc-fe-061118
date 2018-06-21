@@ -20,7 +20,13 @@ div {
   }
 #green {
   border-top-color:green;
-
-#blue 
+}
+#blue { 
   border-top-color:blue;
+}
+#indigo {
+  border-top-color:indigo;
+}
+#violet {
+  border-top-color:violet;
 }
